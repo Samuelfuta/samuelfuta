@@ -1,6 +1,6 @@
+Cybersecurity 
 
 
-🎓 Future Cybersecurity 
 🌍 From Angola  
 💻 Interests: Networks, Python, Ethical Hacking
 
