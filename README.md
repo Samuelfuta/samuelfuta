@@ -1,16 +1,20 @@
-## Hi there 👋
+# WY – Cybersecurity Student
 
-<!--
-**Samuelfuta/samuelfuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Future Cybersecurity student in Italy  
+🌍 From Angola  
+💻 Interests: Networks, Python, Ethical Hacking
 
-Here are some ideas to get you started:
+## Skills
+- Python (basic automation, security scripts)
+- Networking (TCP/IP, VLAN, DHCP)
+- Linux fundamentals
+- Ethical hacking (TryHackMe labs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Python Security Basics
+- Network Scanner
+- Ethical Hacking Labs
+
+## Learning
+- TryHackMe
+- Hack The Box Academy
