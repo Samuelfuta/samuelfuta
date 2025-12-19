@@ -1,4 +1,4 @@
-# WY – Cybersecurity Student
+
 
 🎓 Future Cybersecurity student in Italy  
 🌍 From Angola  
