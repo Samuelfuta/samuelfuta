@@ -1,6 +1,6 @@
 
 
-🎓 Future Cybersecurity student in Italy  
+🎓 Future Cybersecurity 
 🌍 From Angola  
 💻 Interests: Networks, Python, Ethical Hacking
 
